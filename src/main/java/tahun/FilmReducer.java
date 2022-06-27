@@ -12,6 +12,8 @@ public class FilmReducer extends Reducer<Text,IntWritable,Text,IntWritable>{
 		// TODO Auto-generated method stub
 		int i,sum =0;
 		Text oa = arg0;
+		// Disini melakukan reducer yaitu setiap ada film dengan rentang tahun 1950 sampai 1960 maka
+		// sistem akan merecord dan menjumlahkan data
 		for(IntWritable data : arg1) {
 			i = data.get();
 			sum = sum + i;
