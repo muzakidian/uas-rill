@@ -8,7 +8,7 @@ Terdapat dataset dengan list 50.000 film
 
 ## Dataset
 Dataset didapatkan dari website Kaggle.com
-Berikut adalah [link](https://www.kaggle.com/datasets/stefanoleone992/filmtv-movie-dataset) dataset yang saya pakai untuk melakukan MapReduce
+Berikut adalah [link](https://www.kaggle.com/datasets/stefanoleone992/filmtv-movies-dataset) dataset yang saya pakai untuk melakukan MapReduce
 
 ## Struktur Data
 Data memiliki struktur id film, judul, tahun, rating, dan durasi 
